@@ -1,0 +1,17 @@
+{
+    "name": "shaolin/shaolin",
+    "description": "a mvc framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Shaolin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shingitai",
+            "email": "shingitai@vivaldi.net"
+        }
+    ],
+    "require": {}
+}
